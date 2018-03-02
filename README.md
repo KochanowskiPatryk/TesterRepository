@@ -7,6 +7,8 @@ If you have any questions feel free to email me: p.kochanowski91@gmail.com
 I made:
  Test scenarios for http://m3gustapl/com login page
  Test cases covering scenarios
+ 
+ 
  Few bug reports for:
 - moblie application Fortitudo
 - web application http://sts.pl
