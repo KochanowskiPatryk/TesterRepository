@@ -5,8 +5,8 @@ I am trying to get first job in software testing so i made few test scenarios, c
 If you have any questions feel free to email me: p.kochanowski91@gmail.com
 
 I made
- Few test scenarios for http://m3gustapl/com login page and some
- test cases covering scenarios
+ few test scenarios for http://m3gustapl/com login page and some
+ test cases covering them.
  
  
  Few bug reports for:
